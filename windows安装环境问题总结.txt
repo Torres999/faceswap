@@ -1,0 +1,6 @@
+1.解决安装ffmpeg时timeou问题
+pip install --upgrade imageio-ffmpeg -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+2.解决安装pip install -r requirements_nvidia.txt的timeou问题
+pip install -r requirements_nvidia.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
